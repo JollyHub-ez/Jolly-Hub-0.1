@@ -2,7 +2,7 @@ local OrionLib = loadstring(game:HttpGet('https://raw.githubusercontent.com/shle
 
 -- Yeni pencere oluşturma
 local Window = OrionLib:MakeWindow({
-    Name = "Advanced Script Hub",
+    Name = "Jolly Hub",
     HidePremium = false,
     SaveConfig = true,
     ConfigFolder = "AdvancedScriptConfig"
